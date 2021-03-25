@@ -14,7 +14,7 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #b789ce;
 }
 
 a:hover {
@@ -93,8 +93,8 @@ font-family: 'Comfortaa', cursive;  ;
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #b789ce;
+  border-color: ##6c757d;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -136,7 +136,7 @@ font-family: 'Comfortaa', cursive;  ;
   font-weight: 400;
   padding: 0.75em 0;
   letter-spacing: 1px;
-  color: white;
+  color: #b789ce;
 font-family: 'Comfortaa', cursive;;
 }
 
@@ -172,7 +172,7 @@ font-family: 'Comfortaa', cursive;;
 
 header.masthead {
   text-align: center;
-  color: white;
+  color: #b789ce;
   background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
